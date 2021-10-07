@@ -23,7 +23,4 @@
 
 * Para entrar no admin basta digitar "localhost:8000/admin"  que aparecerá a tela de login 
 
-* Senha padrão
-
-Login: Admin
-Senha: 123456
+* Senha padrão: Admin 123456
