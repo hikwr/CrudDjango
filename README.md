@@ -1,3 +1,11 @@
-# CRUD de produtos feito no DJango 3.2
+# *** CRUD de produtos feito no DJango 3.2 ***
 
-Crud de produtos para mercados feito no Python 3.9/Django 3.2
+### ※ Para o funcionamento do código é necessario:
+
+* Python 3.0+
+* Django 3.2
+
+
+### ※ Funcionamento
+
+
