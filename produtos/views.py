@@ -40,3 +40,4 @@ def deleta_produto(request, id):
     #verifica se o request é POST, pois, quando a pessoa clicar em delete o request é GET, entao ja entra direto na tela de confirmacao do delete
     return render (request, 'deletaprodutoconfirm.html', {'produto' : produto})
     #tela de confirmacao pro deletar, seguranca
+

@@ -9,5 +9,5 @@ class ProdutoForm(forms.ModelForm):
             'descricao' : 'Descrição',
             'preco' : 'Preço',
             'quantidade' : 'Quantidade',
-            'posicao' : 'Posição,'
+            #'posicao' : 'Posição,'
         }
